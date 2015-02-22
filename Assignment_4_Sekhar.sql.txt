@@ -1,4 +1,6 @@
-/* Create a table, with the following statement */
+
+/*STEP 1: Create a table (SELF REFERENTIAL), with the following statement. The employee_id column gets generated automatically (as Identity column) */
+
 
 DROP TABLE IF EXISTS EMPLOYEE;
 
